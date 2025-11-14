@@ -1,0 +1,30 @@
+{
+    "classes": [
+        {
+            "title": "mask_weared_incorrect",
+            "shape": "rectangle",
+            "color": "#F032E6",
+            "geometry_config": {},
+            "id": 20380,
+            "hotkey": ""
+        },
+        {
+            "title": "with_mask",
+            "shape": "rectangle",
+            "color": "#E6194B",
+            "geometry_config": {},
+            "id": 20379,
+            "hotkey": ""
+        },
+        {
+            "title": "without_mask",
+            "shape": "rectangle",
+            "color": "#000080",
+            "geometry_config": {},
+            "id": 20378,
+            "hotkey": ""
+        }
+    ],
+    "tags": [],
+    "projectType": "images"
+}

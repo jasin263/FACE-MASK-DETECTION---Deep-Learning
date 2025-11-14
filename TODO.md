@@ -1,0 +1,7 @@
+- [ ] Update face-mask-detection-DatasetNinja (1)/README.md with detailed project description, dataset info, models, training details, results, and usage instructions.
+- [ ] Check if Git repository is initialized in the current directory.
+- [ ] If not initialized, run `git init`.
+- [ ] Add GitHub remote origin: https://github.com/jasin263/FACE-MASK-DETECTION---Deep-Learning
+- [ ] Stage all changes.
+- [ ] Commit changes with message "Update README with project details from dlminiproj.ipynb".
+- [ ] Push to GitHub repository.
